@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{F2601373-BE57-4B61-9482-1EBD71C6EFBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{8F1781E5-F801-4977-80DE-2B587831A739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9D07EB8D-A56E-4A35-98A9-A9F50C09A097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2601373-BE57-4B61-9482-1EBD71C6EFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2601373-BE57-4B61-9482-1EBD71C6EFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2601373-BE57-4B61-9482-1EBD71C6EFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2601373-BE57-4B61-9482-1EBD71C6EFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1781E5-F801-4977-80DE-2B587831A739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1781E5-F801-4977-80DE-2B587831A739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1781E5-F801-4977-80DE-2B587831A739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1781E5-F801-4977-80DE-2B587831A739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D07EB8D-A56E-4A35-98A9-A9F50C09A097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D07EB8D-A56E-4A35-98A9-A9F50C09A097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D07EB8D-A56E-4A35-98A9-A9F50C09A097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D07EB8D-A56E-4A35-98A9-A9F50C09A097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E01900B7-3F03-4072-BCC2-31B320B872A7}
+	EndGlobalSection
+EndGlobal
